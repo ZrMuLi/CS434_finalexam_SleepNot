@@ -1,3 +1,7 @@
-# Foobar
+# Fifa online Clustering
 
-Foobar is a Python library for dealing with word pluralization.
+This respiratory made for exam project in Data Mining subject
+
+# In Case of use
+
+please referrent us in the project
